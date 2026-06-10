@@ -4,7 +4,6 @@ import os
 import pickle
 import streamlit as st
 import pandas as pd
-from pyngrok import ngrok
 
 st.set_page_config(
     page_title="Analisis Sentimen Review Tokopedia",
